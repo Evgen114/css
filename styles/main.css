@@ -1,0 +1,22 @@
+h1 {
+	font-size: 18px;
+	front-weight: 600;
+}
+h2 {
+	font-size: 14px;
+	front-weight: 600;
+}
+.test-1 {
+	line-height: 40px;
+
+}
+.test-2 {
+	min-width: 120px;
+}
+
+br {
+	margin-top: 40px;
+}
+h3 {
+	text-align: right;
+}
